@@ -1,0 +1,3 @@
+C:/Users/Hp-EliteBook/Desktop/adder_pkg/cmake-build-debug/CMakeFiles/adder_pkg.dir
+C:/Users/Hp-EliteBook/Desktop/adder_pkg/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp-EliteBook/Desktop/adder_pkg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
