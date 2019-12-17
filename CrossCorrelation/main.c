@@ -92,7 +92,7 @@ static void main_crossCorr(void)
   argInit_1x48_real_T(dv1);
   crossCorr(dv0, dv1, Corr, lag);
 
-  /* Printing the result Corr and lag: */
+  /* Printing the results Corr and lag: */
     for (int idx1 = 0; idx1 < 191; ++idx1) {
         printf("Corr[%d] = %f;  lag[%d] = %.2f \n", idx1, Corr[idx1], idx1, lag[idx1]);
     }
